@@ -7,5 +7,5 @@ class Main {
 
 fun main(){
     val managerActorSystem = ActorSystem.create(ManagerActorBehavior.create(), "managerActorSystem")
-    managerActorSystem.tell("start")
+    managerActorSystem.tell(ManagerActorBehavior.Companion.InstructionCommand("start"))
 }
