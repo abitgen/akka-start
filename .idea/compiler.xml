@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="akka-start.01_Big_Primes.main" target="1.8" />
+      <module name="akka-start.01_Big_Primes.test" target="1.8" />
+      <module name="akka-start.buildSrc.main" target="1.8" />
+      <module name="akka-start.buildSrc.test" target="1.8" />
+      <module name="akka-start.main" target="1.8" />
+      <module name="akka-start.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

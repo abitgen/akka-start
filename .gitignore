@@ -2,6 +2,8 @@
 ### Gradle template
 .gradle
 /build/
+/buildSrc/build
+/01_Big_Primes/build
 
 # Ignore Gradle GUI config
 gradle-app.setting
