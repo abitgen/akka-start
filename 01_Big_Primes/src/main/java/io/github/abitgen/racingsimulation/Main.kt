@@ -1,4 +1,4 @@
-package io.github.abitgen.generateprime
+package io.github.abitgen.racingsimulation
 
 import akka.actor.typed.ActorSystem
 

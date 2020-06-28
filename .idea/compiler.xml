@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="akka-start.01_Big_Primes.main" target="1.8" />
       <module name="akka-start.01_Big_Primes.test" target="1.8" />
+      <module name="akka-start.02_Racing_Simulation.main" target="1.8" />
+      <module name="akka-start.02_Racing_Simulation.test" target="1.8" />
       <module name="akka-start.buildSrc.main" target="1.8" />
       <module name="akka-start.buildSrc.test" target="1.8" />
       <module name="akka-start.main" target="1.8" />

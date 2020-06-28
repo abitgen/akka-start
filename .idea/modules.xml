@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.iml" filepath="$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/01_Big_Primes/akka-start.01_Big_Primes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.iml" filepath="$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/02_Racing_Simulation/akka-start.02_Racing_Simulation.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-start.buildSrc.test.iml" />

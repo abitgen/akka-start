@@ -1,4 +1,4 @@
-package io.github.abitgen.generateprime
+package io.github.abitgen.racingsimulation
 
 import akka.actor.typed.ActorRef
 import akka.actor.typed.Behavior
@@ -8,11 +8,11 @@ import akka.actor.typed.javadsl.Behaviors.setup
 import akka.actor.typed.javadsl.Receive
 import java.io.Serializable
 import java.math.BigInteger
-import io.github.abitgen.generateprime.WorkerActorBehavior.Companion.Command as WorkerCommand
-import io.github.abitgen.generateprime.ManagerActorBehavior.Companion.Command as ManagerCommand
+import io.github.abitgen.racingsimulation.WorkerActorBehavior.Companion.Command as WorkerCommand
+import io.github.abitgen.racingsimulation.ManagerActorBehavior.Companion.Command as ManagerCommand
 
 
-class WorkerActorBehavior(context: ActorContext<WorkerCommand>) : AbstractBehavior<WorkerCommand>(context) {
+class WorkerActorBehavior private constructor(context: ActorContext<WorkerCommand>) : AbstractBehavior<WorkerCommand>(context) {
 
     override fun createReceive(): Receive<WorkerCommand> {
         return newReceiveBuilder()
